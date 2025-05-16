@@ -1,0 +1,354 @@
+/etc/passwd
+/etc/shadow
+ls
+help
+ssh-keygen -t ed25519
+ls -1 .ssh/
+udo systemctl status sshd
+sudo systemctl status sshd
+cat .ssh/id_ed25519.pub
+git clone git@github.com:JulianLebe/vmvagrant_repo.git
+ls
+cd vmvagrant_repo
+ls
+history > Prueba1.txt
+history > historial.txt
+ls
+git status
+git add
+git add .
+git status
+git commit -m "commit clase2"
+git config --global user.email "julianlebe@gmai.com"
+git config --global user.name "julian lebe"
+git commit -m "commit clase2"
+git push
+echo "linea final" >>historial.txt
+echo "linea final" >> historial.txt
+git status
+ls
+catca
+cac<f>ffffin
+cat <<FIN> texto.txt
+linea 1
+linea 2
+linea 3
+FIN
+
+cat texto.txt
+bc <<<1+2
+history > historial.txt
+cat historial.txt
+echo "hola mundo" | wc
+cat historial.txt | head -n 20
+history > historial.txt
+cat historial.txt | head -n30 | grep -n status
+history > historial.txt
+git status
+grep -i proce /proc/cpuinfo
+cat /proc/cpuinfo | grep -i proce
+cat /proc/gpuinfo | grep -i v
+:(
+history > historial.txt
+git status
+ls
+vmvagrant_repo
+cd vmvagrant_repo
+git status
+git add historial.txt
+git add
+git commit .a
+git commit -a
+git status
+git add .
+exit
+ls
+cd vmvagrant_repo
+ls
+git status
+git add .
+exit
+git commit -a
+ls -l
+cat README
+cat historial
+cat historial.txt
+cat > historial.txt
+mkdir clase 4
+ls
+deldir clase
+dldir clase
+delete clase
+cd clase
+cat > texto1.txt
+cat texto1.txt
+cd ...
+cd...
+cd ..
+mv clase clase4
+ls -l
+rmdir 4
+cd clase4
+ls
+ls -kl
+ls -l
+cat << FIN  > texto2.txt
+linea 6
+linea 7
+linea 8
+linea 9
+linea 10
+FIN
+
+ls
+ls -l
+cat texto2.txt
+cat texto1.txt 
+cat .txt
+cat * .txt
+cat texto1.txt >> texto2.txt 
+cat texto1.txt 
+cat texto2.txt 
+cat << EOF > texto3.txt
+linea 11
+linea 12
+linea 13
+EOF
+
+ls -l
+cat * .txt
+cat texto1.txt texto3.txt > texto4.txt
+ls -l
+cat texto4.txt 
+echo Hola Mundo! > texto4.txt 
+s -ll
+ls -l
+cat text4
+cat text4.txt
+cat texto4.txt 
+cat texto1.txt texto3.txt > texto4.txt 
+acho Hello world! >> texto4.txt 
+echo Hello world! >> texto4.txt
+ls -l
+cat texto4.txt 
+grep pattern Hello texto4.txt 
+man
+grep -i hello texto4.txt 
+grep hello texto4.txt 
+grep 2 * .txt
+grep -i hello world! texto4.txt > filtro_letras_de_numeros.txt
+grep -i hello texto4.txt > filtro_letras_de_numeros.txt
+ls -l
+history
+history > historialClase4.txt
+ls -l
+cat filtro_letras_de_numeros.txt 
+cat texto4
+cat texto4.txt 
+cat historialClase4.txt 
+grep -c hello world! texto4.txt > filtro_letras_de_numeros_cantidad.txt
+grep -c hello texto4.txt > filtro_letras_de_numeros_cantidad.txt
+cd..
+cd ..
+tree
+apt  install tree
+sudo apt  install tree
+sudo snap  install tree
+tree
+cd clase 4
+pwd
+cd clase4
+touch texto1.txt 
+ls -l
+cd clase4
+ls -l 
+mv historialClase4.txt /home/vagrant
+ls -l
+cd..
+cd ..
+ls -l
+cd clase4
+cat texto.txt
+cd ..
+cat texto.txt
+rm -r clase4
+ls .l
+ls -l
+rm texto.txt 
+ls- l
+ls -l
+cd carpeta_compartida/
+ls
+cd ..
+cd repogit/
+ls
+ls -l
+cd ..
+whoami
+id
+w
+free
+ls
+cd ..
+ls -l
+cd vagrant
+ls -l
+mkdir -p {Dir1,Dir2}/Subdir{1..5}
+ls-l
+ls -l
+ls -l Dir1
+tree
+mkdir -p {Valentina_Abril_Lebedinsky/Es_Gay_{si,no},Julian_Lebedinsky/{Es_Fachero_{si,obvio}}
+tree
+rm -r {Valentina_Abril_Lebedinsky
+tree
+pwd
+mkdir -p {compra1/vendedor{1..3},compra2/{vendedor{1..3},repositor}}
+tree
+cat /etc/passwd
+cat /etc/group
+cat /etc/shadow
+sudo cat /etc/shadow
+cat /etc/shadowsudo$y$j9T$2zmETqj7IeOf5hIfz8vsP0$9On3mFpK7W2HBtSjoDxBMjr3wYNxZmuHG7z/aESjzdC:20207:0:99999:7:::
+sudo cat /etc/shadow
+hi world
+ls-l
+l  -   -l
+lsls -l
+ls -l
+vagrant halt
+sudo grupadd Alumnos
+sudo groupadd Alumnos
+cat /etc/group
+useradd -m -s /bin/bash -c "JulianLebe" -G Alumnos
+sudo useradd -m -s /bin/bash -c "Cuenta Personal" -G Alumnos JulianLebe
+cat /etc/ppasswd
+cat /etc/passwd
+cat /etc/group
+passwd JulianLebe
+lola4392
+sudo passwd JulianLebe
+su JulianLebe
+ls
+sudo usermod -aG sudo JulianLebe
+sudo usermod -aG sudo vagrant
+sudo usermod -aG sudo JulianLebe
+groups nombre_usuario
+groups JulianLebe
+su - JulianLebe
+id JulianLebe
+sudo usermod -aG sudo JulianLebe
+groups JulianLebe
+sudo visudo
+su - JulianLebe
+ls -l /etc/sudoers.lock
+sudo visudo
+ls -l
+su - JulianLebe
+vagrant reload
+exit
+sudo mkdir -p /home/JulianLebe/.ssh
+sudo chmod 700 /home/JulianLebe/.ssh
+exit
+mkdir clase5
+cd clase5
+vim script2.sh
+chmod 764 scripts2.sh
+chmod 764 script2.sh
+./script2.sh
+cd ..
+exit
+ssh-keygen -t ed25519
+ls -la .shh/
+ssh-keygen -t ed25519
+cat .ssh/id_ed25519.pub
+cat .ssh/*.pub
+mkdir repogit
+cd repogit/
+ls
+ls -la
+git clone git@github.com:JulianLebe/TP1_AySO_114_Lebedinsky_Julian.git
+ls -l
+cd t
+cd TP1_AySO_114_Lebedinsky_Julian/
+cat /etc/os-release
+grep -i /etc/os-release
+cd repogit/
+cd TP1_AySO_114_Lebedinsky_Julian/
+grep -i home_url /etc/os-release > datos_url.txt
+git status
+git add .
+git commited .
+git status
+git committed
+git commit
+git commit -m
+gis status
+git status
+git commit -m "Agrego los datos de la URL del home"
+whoami
+echo "Usuario: $(whoami)." > datos_usuario.txt
+git add .
+git commit -m "Subo Archivo con los datos del usuario en uso"
+git push
+git status
+ls -l
+cat datos_url.txt/
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+cat datos_usuario.txt 
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+cat datos_usuario.txt 
+git status
+git add .
+git commit -m "Subiendo datos del CPU"
+git push
+cat <<EOF>> README.MD
+Alumno: Julian Lebedinsky.
+División: 114
+Turno: Mañana
+EOF
+
+GIT ADD
+git add
+git add .
+git commit -m "Añadiendo Readme"
+git push
+mkdir -p {Materia1..2}/{uni1..3}
+ls -l
+rm - r {Materia1..2}
+rm -r {Materia1..2}
+mkdir -p Materia{1,2}/uni{1..3}
+ls -l
+cat Materia1
+cat Materia11/
+cat Materia1/
+tree
+git status
+cd Materia1
+git status
+cd ..
+vim script_dir.sh
+ls -l
+cat readme.md
+cat README.MD
+CAT README.me
+cat README.md
+README.MD >> README.md
+cat README.MD >> README.md
+ls -l
+cat README.md
+rm -r README.MD
+LS -L
+ls -l
+cat datos_usuario.txt
+cat datos_usuarios.txt
+cat datos_usuarios.txt >> datos_usuario.txt
+rm -r datos_usuarios.txt
+ls -l
+cat script_dir.sh 
+git status
+git add .
+git commit -m "Añadiendo el Sci"
+git push
+history -a
